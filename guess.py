@@ -3,8 +3,11 @@ randNumber = random.randint(1, 100)
 user = None
 chance = 0
 
+#* Printing The Welcome Message..
 print("\t Welcome To Number Guessing Game \t")
 
+
+#$ Looping into the Game.....
 while True:
     msg = input("Would You Like to Play the Game[y/n]:- ")
     if msg=='y':
@@ -19,6 +22,7 @@ while True:
                     print("You guessed it wrong! Enter a smaller number")
                 else:
                     print("You guessed it wrong! Enter a larger number")
+    #& Ending the Loop..
     else:
         print("Hope You Enjoyed the Game.")
         break
