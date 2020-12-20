@@ -1,6 +1,11 @@
 # Hi I am Deepraj Baidya😎, a Student DEV..
 ### Number Guessing Game using Python's Random Module.
 
+    Hi, this is a "Number Guessing Game" I made using python using the Random module.
+    
+    Hope You'll Like this one.🥰
+    Feel Free to contribute.....
+
 ## About ME..😁😁😁😁
 <details>
   <summary>:zap: Click Here to Know me😋</summary>
@@ -23,8 +28,5 @@ Website: [Hi,I am Deepraj](https://sites.google.com/view/deeprajbaidya)
 <br>
 Email: [Mail ID](deeprajbaidya06@gmail.com)
 </details>
-
-Hi, this is a "Number Guessing Game" I made using python using the Random module....
-Hope You'll Like this one.
 
 # HAPPY CODING....
