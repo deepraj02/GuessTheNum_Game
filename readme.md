@@ -26,7 +26,7 @@ Instagram: [Instagram](https://www.instagram.com/deeprajbaidya02/?hl=en)
 <br>
 Website: [Hi,I am Deepraj](https://sites.google.com/view/deeprajbaidya)
 <br>
-Email: [Mail ID](deeprajbaidya06@gmail.com)
+Email: deeprajbaidya06@gmail.com
 </details>
 
 # HAPPY CODING....
