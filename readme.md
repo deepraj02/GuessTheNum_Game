@@ -29,4 +29,8 @@ Website: [Hi,I am Deepraj](https://sites.google.com/view/deeprajbaidya)
 Email: deeprajbaidya06@gmail.com
 </details>
 
+<p align="center">
+  <img src="C:\Users\91762\Desktop\Screenshots" width="350" title="Code Preview">
+</p>
+
 # HAPPY CODING....
