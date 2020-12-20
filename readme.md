@@ -3,7 +3,7 @@
 
 ## About ME..😁😁😁😁
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Click Here to Know me</summary>
 
 <!-- Little About Me-->
 - 🌱 I’m currently learning everything 🤣
@@ -13,11 +13,11 @@
 </details>
 
 ### Contact Me...
-    My Github: [GitHub](https://github.com/deepraj02)
-    Instagram: [Instagram](https://www.instagram.com/deeprajbaidya02/?hl=en)
-    Website: [deeprajbaidya.com](https://sites.google.com/view/deeprajbaidya)
+    My Github: https://github.com/deepraj02
+    Instagram: https://www.instagram.com/deeprajbaidya02/?hl=en
+    Website: https://sites.google.com/view/deeprajbaidya
 
 Hi, this is a "Number Guessing Game" I made using python using the Random module....
 Hope You'll Like this one.
 
-.......................HAPPY CODING............................
+# HAPPY CODING....
