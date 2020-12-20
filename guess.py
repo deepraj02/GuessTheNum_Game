@@ -24,5 +24,6 @@ while True:
                     print("You guessed it wrong! Enter a larger number")
     #& Ending the Loop..
     else:
+        print("Thanks For Playing, See You again soon")
         print("Hope You Enjoyed the Game.")
         break
