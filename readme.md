@@ -20,6 +20,7 @@
 ## Contact Me...
 <details>
     <summary>:zap: Contact Details😄😃</summary>
+
 My Github: [GitHub](https://github.com/deepraj02)
 <br>
 Instagram: [Instagram](https://www.instagram.com/deeprajbaidya02/?hl=en)
