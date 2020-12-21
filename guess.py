@@ -9,7 +9,7 @@ print("\t Welcome To Number Guessing Game \t")
 
 #$ Looping into the Game.....
 while True:
-    msg = input("Would You Like to Play the Game[y/n]:- ")
+    msg = input("Would You Like to Play the Game[y/n]:- ").lower()
     if msg=='y':
         while(user != randNumber):
             user = int(input("Enter your guess between (1-100): "))
